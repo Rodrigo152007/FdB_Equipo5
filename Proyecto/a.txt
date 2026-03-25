@@ -5,7 +5,7 @@ Carátula del grupo
 
 📸 Foto de Grupo 
 
-Foto de grupo
+Foto de grupo: ![Imagen del grupo](https://github.com/Rodrigo152007/FdB_Equipo5/blob/main/Imagenes/WIN_20260325_17_19_44_Pro.jpg)
 
 👩‍🔬 Sobre nosotros
 
