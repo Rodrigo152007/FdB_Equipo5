@@ -18,7 +18,7 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 
 ## 📸 Foto Grupal
 
-![Foto Grupal](Imágenes/WIN_20260325_17_19_44_Pro.jpg)  
+![Foto Grupal](Imagenes/WIN_20260325_17_19_44_Pro.jpg)  
 
 ---
 
