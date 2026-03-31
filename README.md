@@ -18,48 +18,48 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 
 ## 📸 Foto Grupal
 
-![Foto Grupal](Imagenes/WIN_20260325_17_19_44_Pro.jpg)  
+![Foto Grupal]
 
 ---
 
 ## 👥 Integrantes
 
 ### 🧑 Alexandra Eduarda Torres Rodriguez
-![Foto Alexandra]()
+![Foto Alexandra](Alexandra.jpg)
 
 - **Edad:** 18 años    
 - **Rol:** rol1  
 ---
 
-### 🧑 integrante 2
-![Foto integrante2]() 
-
+### 🧑 Rosa Ángela Ancasi Allpan
+![Foto integrante2](Rosa.jpg) 
+.
 - **Edad:**  años   
 - **Rol:**  
 ---
 
-### 🧑 Integrante 3
-![Foto Integrante3]() 
+### 🧑Rodrigo Joaquín Castañeda Pascual
+![Foto Integrante3](Rodrigo.jpg) 
 
 - **Edad:**  años    
 - **Rol:**   
 ---
 
-### 👩 integrante 4
-![Foto Integrante4]() 
+### 👩Ricardo Andre Gamboa Sakamoto
+![Foto Integrante4](Ricardo.jpg) 
 
 - **Edad:**  años  
 - **Rol:** 
 ---
 
-### 👩 Integrante 5
+### 👩 Fabrizzio Angel Rodrigo Cañari Palomino
 ![Foto Integrante5](I) 
 
 - **Edad:**  años    
 - **Rol:**   
 ---
 
-### 👩 Integrante 6
+### 👩  Diego Jesús Ariel Delzo Espejo
 ![Foto Integrante7]() 
 
 - **Edad:**  años    
