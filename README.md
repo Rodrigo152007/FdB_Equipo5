@@ -5,8 +5,8 @@
 [![pucp.png](https://i.postimg.cc/XYL9GXMR/pucp.png)](https://postimg.cc/rDdD7Vwj)
 ---
 
-<b><p align="center"> FUNDAMENTOS DE BIODISEÑO 2025-2 </b>
-<h1><p align="center"> EQUIPO 6 </p></h1>
+<b><p align="center"> FUNDAMENTOS DE BIODISEÑO 2026-1 </b>
+<h1><p align="center"> EQUIPO 5 </p></h1>
 
 
 # 📌 Presentación del Equipo
