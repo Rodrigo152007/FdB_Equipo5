@@ -2,7 +2,7 @@
   <img src="[https://fundbio.github.io/images/pucp_upch.png]>
 </p>
 
-[![pucp.png](https://i.postimg.cc/XYL9GXMR/pucp.png)](https://postimg.cc/rDdD7Vwj)
+![UPCH logo](https://postimg.cc/7fQys6xT)
 ---
 
 <b><p align="center"> FUNDAMENTOS DE BIODISEÑO 2026-1 </b>
