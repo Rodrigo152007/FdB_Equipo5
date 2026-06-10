@@ -34,34 +34,34 @@ Aquí encontrarás información sobre cada integrante, sus roles y responsabilid
 ### 🧑 Rosa Ángela Ancasi Allpan
 ![Foto integrante2](Rosa.jpg) 
 .
-- **Edad:**  años   
+- **Edad:**  22 años   
 - **Rol:**  
 ---
 
 ### 🧑Rodrigo Joaquín Castañeda Pascual
 ![Foto Integrante3](Rodrigo.jpg) 
 
-- **Edad:**  años    
+- **Edad:**  18 años    
 - **Rol:**   
 ---
 
 ### 👩Ricardo Andre Gamboa Sakamoto
 ![Foto Integrante4](Ricardo.jpg) 
 
-- **Edad:**  años  
+- **Edad:**  19 años  
 - **Rol:** 
 ---
 
 ### 👩 Fabrizzio Angel Rodrigo Cañari Palomino
 ![Foto Integrante5](I) 
 
-- **Edad:**  años    
+- **Edad:**  19 años    
 - **Rol:**   
 ---
 
 ### 👩  Diego Jesús Ariel Delzo Espejo
 ![Foto Integrante7]() 
 
-- **Edad:**  años    
+- **Edad:**  22 años    
 - **Rol:**  
 ---
