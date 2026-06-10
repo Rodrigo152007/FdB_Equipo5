@@ -2,8 +2,8 @@
   <img src="[https://fundbio.github.io/images/pucp_upch.png]>
 </p>
 
-![UPCH logo](https://postimg.cc/7fQys6xT)
----
+![UPCH logo](https://i.postimg.cc/pLPXdh4k/universidadperuana-Cayetano-Heredia.jpg)
+
 
 <b><p align="center"> FUNDAMENTOS DE BIODISEÑO 2026-1 </b>
 <h1><p align="center"> EQUIPO 5 </p></h1>
